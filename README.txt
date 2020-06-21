@@ -1,5 +1,5 @@
 =================================================
-|   Numerical Simulation Laboratory - README 	 |
+|   Numerical Simulation Laboratory - README    |
 =================================================
 |                    Author:                    |
 |                  Marco Ermolli                |
