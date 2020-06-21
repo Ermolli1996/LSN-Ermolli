@@ -1,0 +1,15 @@
+32
+200
+1
+1
+20
+1.1
+100000
+
+  ReadInput >> ncities;
+  ReadInput >> niterations;
+  ReadInput >> type; // 1 for circumsphere, 2 for square
+  ReadInput >> R; //Radius if type==1, side if type==2
+  ReadInput >> T_in; //Initial temperature
+  ReadInput >> fract; // T_i=T_(i-1) / div
+  ReadInput >> steps_forT //steps for every temperature

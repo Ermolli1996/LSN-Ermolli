@@ -1,0 +1,25 @@
+32
+100
+30000
+2
+1
+0.2
+0.3
+0.2
+0.3
+0.8
+0
+200
+
+  ReadInput >> ncities;
+  ReadInput >> popdim;
+  ReadInput >> ngenerations;
+  ReadInput >> type; // 1 for circumsphere, 2 for square
+  ReadInput >> R; //Radius if type==1, side if type==2
+  ReadInput >> p1; //Probability of Permutation_1
+  ReadInput >> p2; //Probability of Shift
+  ReadInput >> p3; //Probability of Inversion
+  ReadInput >> p4; //Probability of Permutation_m
+  ReadInput >> pcr; //Probability of Crossing
+  ReadInput >> p_elite; //probabilità scambio elite-peggiore
+  ReadInput >> n_migr; every n_migr  generations the continents exchange their best individuals randomly
