@@ -1,0 +1,17 @@
+0.55
+50
+1.0
+0.02
+0
+200
+10000
+1
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> restart; 0 per conf in casuale; altrimenti prende la conf finale precedente  (se restart =1 le vearibili finali vengono salvate nell'andamento in funz della temperatura)
