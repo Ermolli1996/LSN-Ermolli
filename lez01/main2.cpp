@@ -95,7 +95,7 @@ int main (int argc, char *argv[]){
 	out2.close();
 	out3.close();
 
-   rnd.SaveSeed();
+  rnd.SaveSeed();
 
    return 0;
 }
