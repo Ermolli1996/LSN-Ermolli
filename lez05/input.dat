@@ -1,0 +1,17 @@
+1000000
+300
+2.5
+20
+20
+20
+1
+U
+
+  ReadInput >> nstep;
+  ReadInput >> nblocks;
+  ReadInput >> passo; //1s: 2.5 for U ; 2p: 6 for U, 3.8 for G (acp rate 50%)
+  ReadInput >> x_start; //aggiungere _far per punto lontano nell'output
+  ReadInput >> b_start;
+  ReadInput >> z_start;
+  ReadInput >> state; //1=1s, 2=2p
+  ReadInput >> distribution; // U=Uniform, G=Gaussian
