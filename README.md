@@ -1,5 +1,5 @@
 =================================================
-|   Numerical Simulation Laboratory  -  README  |
+|   Numerical Simulation Laboratory - README 	  |
 =================================================
 |                    Author:                    |
 |                  Marco Ermolli                |
@@ -8,7 +8,13 @@
 =================================================
 
 # LSN-Ermolli
+
 This repository contains all my exercises of the course "Numerical Simulation Laboratory".
 
-There is one folder for each numerical exercise.
+It contains 13 folders: one for each exercise lesson and one ("lez00") with useful material (Parallel Random Generator)
+
 Each folder contains a README  with the descriptions of all the files.
+
+
+
+
