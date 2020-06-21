@@ -13,7 +13,7 @@ This repository contains all my exercises of the course "Numerical Simulation La
 
 It contains 13 folders: one for each exercise lesson and one ("lez00") with useful material (Parallel Random Generator and jupyter notebooks).
 
-Each folder contains one jupyter notebook the description of all the results and a lot of other files descripted in a README.
+Each folder contains one jupyter notebook with the description of all the results and a lot of other files descripted in a README.
 
 
 
