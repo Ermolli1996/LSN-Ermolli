@@ -17,7 +17,7 @@ Executable is labelled with ".exe" extension.
 
 Execute with "./< name_executable >" command.
 
-Outputs are: "*.res" and seed.out
+Outputs are: "*.res" and "seed.out".
 
 Files "sigma.*" contain the implementation of the uncertainties for data blocking.
 
