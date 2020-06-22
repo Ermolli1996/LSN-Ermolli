@@ -9,7 +9,7 @@
 
 Legend of files:
 
-Code is in the files named "main.cpp", "main2.cpp", "main3.cpp" (one for every exercise) .
+Code is in the files named "main.cpp", "main2.cpp", "main3.cpp" (one for each exercise).
 
 Compile codes with "make" command.
 
