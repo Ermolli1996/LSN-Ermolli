@@ -3,7 +3,7 @@
 #include <string>
 #include <cmath>
 #include <iomanip>
-#include "../lab/ParRandGen/random.h"
+#include "./ParRandGen/random.h"
 #include "main2.h"
 #include <iterator>		//advance
 #include <algorithm>	//rotate, iter_swap, swap_ranges, reverse, sort

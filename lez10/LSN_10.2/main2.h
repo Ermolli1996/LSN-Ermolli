@@ -1,4 +1,4 @@
-#include "../lab/ParRandGen/random.h"
+#include "./ParRandGen/random.h"
 using namespace std;
 #include <vector>
 

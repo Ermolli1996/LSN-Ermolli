@@ -25,7 +25,7 @@ Outputs are: "*.res" and "seed.out"
 Folder named "Circ" includes results for simulatons of Traveling Salesman Problem in a square (copied from main folder).
 
 Folder named "LSN_10.2" includes results of exercise 9 with mpi libraries: the code was performed in remote (@tolab).
-(Attention! No outputs during esecutions: wait 1-2 minutes!)
+(Attention! No outputs during esecutions: wait just 1 minute!)
 
 
 
