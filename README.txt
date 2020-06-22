@@ -13,7 +13,7 @@
 This repository contains all my exercises of the course "Numerical Simulation Laboratory".
 
 It contains 13 folders: one for each exercise lesson and one ("lez00") with useful material 
-(Parallel Random Generator)
+(Parallel Random Generator).
 
 Each folder contains a README  with the descriptions of all the files.
 
